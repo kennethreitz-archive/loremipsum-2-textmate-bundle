@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ol&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+  &lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+  &lt;li&gt;Nunc dignissim risus id metus.&lt;/li&gt;
+  &lt;li&gt;Cras ornare tristique elit.&lt;/li&gt;
+  &lt;li&gt;Vivamus vestibulum nulla nec ante.&lt;/li&gt;
+  &lt;li&gt;Praesent placerat risus quis eros.&lt;/li&gt;
+  &lt;li&gt;Fusce pellentesque suscipit nibh.&lt;/li&gt;
+  &lt;li&gt;Integer vitae libero ac risus egestas placerat.&lt;/li&gt;
+  &lt;li&gt;Vestibulum commodo felis quis tortor.&lt;/li&gt;
+  &lt;li&gt;Ut aliquam sollicitudin leo.&lt;/li&gt;
+  &lt;li&gt;Cras iaculis ultricies nulla.&lt;/li&gt;
+  &lt;li&gt;Donec quis dui at dolor tempor interdum.&lt;/li&gt;
+  &lt;li&gt;Vivamus molestie gravida turpis.&lt;/li&gt;
+  &lt;li&gt;Fusce lobortis lorem at ipsum semper sagittis.&lt;/li&gt;
+  &lt;li&gt;Nam convallis pellentesque nisl.&lt;/li&gt;
+  &lt;li&gt;Integer malesuada commodo nulla.&lt;/li&gt;
+&lt;/ol&gt;</string>
+	<key>name</key>
+	<string>short list items ~ numbered</string>
+	<key>tabTrigger</key>
+	<string>lol</string>
+	<key>uuid</key>
+	<string>2D0ACD9E-B05A-4966-B0FA-2F992C348EDA</string>
+</dict>
+</plist>

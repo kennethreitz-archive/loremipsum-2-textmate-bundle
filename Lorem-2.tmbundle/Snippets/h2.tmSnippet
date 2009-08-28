@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h2&gt;Donec Nec Justo Eget Felis Facilisis Fermentum&lt;/h2&gt;</string>
+	<key>name</key>
+	<string>h2</string>
+	<key>tabTrigger</key>
+	<string>l2</string>
+	<key>uuid</key>
+	<string>C02B1A94-9432-4229-8629-525F27A92067</string>
+</dict>
+</plist>

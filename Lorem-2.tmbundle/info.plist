@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Lorem-2</string>
+	<key>ordering</key>
+	<array>
+		<string>E65090F1-9A79-4413-BF9C-E95B2CFA7EBD</string>
+		<string>C02B1A94-9432-4229-8629-525F27A92067</string>
+		<string>9BA00047-5138-425A-83FA-25BB3216B347</string>
+		<string>E8E88034-3F82-4691-8826-41479FE1773F</string>
+		<string>616AF9E2-0BF8-4510-ACF1-A2F195488562</string>
+		<string>E403481C-EF2F-462A-A5B2-CFB2D923EA78</string>
+		<string>163B472E-2138-4579-B916-D53483B0026E</string>
+		<string>C69C9243-CC8B-45DF-81C2-3846144C10BC</string>
+		<string>7D7DB784-D4CF-417F-AE4F-398924AA7A0D</string>
+		<string>2D0ACD9E-B05A-4966-B0FA-2F992C348EDA</string>
+		<string>1761CFA4-6E12-4BCD-BEDA-0586AD068E9E</string>
+		<string>665AA1A3-1C3B-4D4D-8B56-8C6959CBCE94</string>
+		<string>C056770F-CCFF-45AB-87FB-04601541C9C0</string>
+		<string>E4AC8934-3895-4E04-9B64-49B315FE6ED7</string>
+	</array>
+	<key>uuid</key>
+	<string>C6774A7F-D839-4624-9AA0-AB1588C36562</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h4&gt;Pellentesque Odio Nisi&lt;/h4&gt;</string>
+	<key>name</key>
+	<string>h4</string>
+	<key>tabTrigger</key>
+	<string>l4</string>
+	<key>uuid</key>
+	<string>E8E88034-3F82-4691-8826-41479FE1773F</string>
+</dict>
+</plist>

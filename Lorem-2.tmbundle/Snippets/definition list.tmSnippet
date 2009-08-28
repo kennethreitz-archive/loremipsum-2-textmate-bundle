@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;dl&gt;
+  &lt;dt&gt;Lorem ipsum dolor sit amet&lt;/dt&gt;
+  &lt;dd&gt;Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.&lt;/dd&gt;
+  &lt;dt&gt;Donec nec justo eget felis facilisis fermentum&lt;/dt&gt;
+  &lt;dd&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/dd&gt;
+  &lt;dt&gt;Morbi in sem quis dui placerat ornare&lt;/dt&gt;
+  &lt;dd&gt;Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.&lt;/dd&gt;
+  &lt;dt&gt;Praesent dapibus&lt;/dt&gt;
+  &lt;dd&gt;Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.&lt;/dd&gt;
+  &lt;dt&gt;Phasellus ultrices nulla quis nibh&lt;/dt&gt;
+  &lt;dd&gt;Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna.&lt;/dd&gt;
+  &lt;dt&gt;Pellentesque fermentum dolor&lt;/dt&gt;
+  &lt;dd&gt;Nulla sed leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/dd&gt;
+  &lt;dt&gt;Sed adipiscing ornare risus&lt;/dt&gt;
+  &lt;dd&gt;Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus.&lt;/dd&gt;
+  &lt;dt&gt;Morbi purus libero&lt;/dt&gt;
+  &lt;dd&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.&lt;/dd&gt;
+  &lt;dt&gt;Integer eu magna sit amet metus fermentum posuere&lt;/dt&gt;
+  &lt;dd&gt;Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.&lt;/dd&gt;
+&lt;/dl&gt;</string>
+	<key>name</key>
+	<string>definition list</string>
+	<key>tabTrigger</key>
+	<string>ldef</string>
+	<key>uuid</key>
+	<string>C056770F-CCFF-45AB-87FB-04601541C9C0</string>
+</dict>
+</plist>
